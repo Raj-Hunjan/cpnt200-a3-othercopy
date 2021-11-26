@@ -1,4 +1,4 @@
-# Netlify CMS Admin Panel & Collections
+# Nuxt + Netlify CMS
 ---
 
 ## Links
