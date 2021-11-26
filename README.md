@@ -2,12 +2,11 @@
 ---
 
 ## Links
-- [My repo](https://github.com/Raj-Hunjan/cpnt200-a1)
-- [Live](https://cranky-liskov-5f1856.netlify.app)
-- [Live/admin](https://cranky-liskov-5f1856.netlify.app/admin/#/collections/blog)
+- [My repo](https://github.com/Raj-Hunjan/cpnt200-a3-othercopy)
+- [Live](https://modest-kare-23440b.netlify.app/)
 
 ## Code Review
-- I thinking working with collections is pretty cool. Most of it is just copy and paste from the [docs](https://www.netlifycms.org/docs/widgets/#header) which I liked. I was dealing with alot of eslint errors again but I worked through it. So yeah collections are pretty nice.
+- This assignment was kinda difficult because I was having a ton of issues with it. I had to clone this project like 5 times and netlify isn't really letting me access the admin panel but yeah I guess it was kinda fun making the collections.
 
 ## Attributions
 - Thanks [Ash](https://github.com/lilyx13) for providing the code.
