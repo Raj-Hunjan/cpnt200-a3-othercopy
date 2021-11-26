@@ -6,7 +6,7 @@
 - [Live](https://modest-kare-23440b.netlify.app/)
 
 ## Code Review
-- This assignment was kinda difficult because I was having a ton of issues with it. I had to clone this project like 5 times and netlify isn't really letting me access the admin panel but yeah I guess it was kinda fun making the collections.
+- This assignment was kinda difficult because I was having some of issues with it. I had to clone this project like 5 times and netlify isn't really letting me access the admin panel but yeah I guess it was kinda fun making the collections.
 
 ## Attributions
 - Thanks [Ash](https://github.com/lilyx13) for providing the code.
